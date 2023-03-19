@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+header{
+border-radius:20px;
+color:darkgreen;
+background-color: chartreuse;
+padding:10px;
+}
+h1{color:darkred;
+text-align: center;
+}
+header a {
+background-color:darkgoldenrod;
+border-radius:20px;
+padding:5px;
+color: darkgreen;
+}
+nav a {
+color:darkgreen;
+}
+footer {
+color:darkgoldenrod;
+padding:20px;
+border-radius:20px;
+background-color: darkgreen;
+}
+nav a {
+margin:40px;
+background-color:darkgoldenrod;
+border-radius:20px;
+padding:5px;
+color: darkgreen;}
+nav {
+padding:1px;
+}
+.button {
+border:5px darkgreen solid
+}
